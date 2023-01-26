@@ -1,0 +1,30 @@
+<RCC>
+  <qresource prefix="plunger">
+    <file>icons/plot.png</file>
+    <file>icons/valve_equation.png</file>
+    <file>icons/plunger_system.png</file>
+    <file>icons/data.png</file>
+    <file>icons/analyze.png</file>
+    <file>icons/simulation.png</file>
+    <file>icons/configuration.png</file>
+    <file>icons/output.png</file>
+    <file>icons/results.png</file>
+    <file>icons/ESP icon.png</file>
+    <file>icons/TU logo.png</file>
+    <file>icons/Reset.png</file>
+    <file>icons/stop.png</file>
+    <file>icons/run.png</file>
+    <file>icons/icon_unconventional.png</file>
+    <file>icons/reservoir.png</file>
+    <file>icons/exit.png</file>
+    <file>icons/oil.png</file>
+    <file>icons/valve.png</file>
+    <file>icons/well_trajectory.png</file>
+    <file>icons/save.png</file>
+    <file>icons/delete.png</file>
+    <file>icons/open.png</file>
+    <file>icons/add-file.png</file>
+    <file>icons/plunger_logo_PFmZvE.ico</file>
+    <file>icons/1.ico</file>
+  </qresource>
+</RCC>
